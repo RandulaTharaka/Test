@@ -4,4 +4,5 @@ DAO
 It's main purpose is for interfacing with the database using JDBC code, very common design pattern. it is called Data Accessor Object (DAO)
 
 
-![Web Browser (1)](https://github.com/RandulaTharaka/Test/assets/60685092/9dbc5860-8b09-4250-8106-502a4039d467)
+![Web Browser (2)](https://github.com/RandulaTharaka/Test/assets/60685092/1a22e6e5-c552-491c-a0ae-5f01a64c1ee7)
+
